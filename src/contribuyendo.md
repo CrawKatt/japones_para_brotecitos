@@ -7,7 +7,7 @@ Para clonar el repositorio, debes tener instalado [Git](https://git-scm.com/). U
 instalado, puedes clonar el repositorio con el siguiente comando:
 
 ```bash
-git clone
+git clone git@github.com:CrawKatt/japones_para_brotecitos.git
 ```
 
 ## Estructura del repositorio
@@ -64,3 +64,5 @@ Si realizas algún cambio en el libro, el navegador se actualizará automáticam
 
 > **Nota:** Debes tener instalado [Rust](https://www.rust-lang.org/tools/install) para poder
 > instalar mdBook.
+> Puedes instalar Rust siguiendo la guía de instalación de Rust en el siguiente capítulo:
+> [Instalando Rust](./instalando_rust.md)
