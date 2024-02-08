@@ -130,18 +130,3 @@ actualización:
 ```console
 $ rustup update
 ```
-
-### Documentación local
-
-La instalación de Rust también incluye una copia local de la documentación para
-que puedas leerla sin conexión. Ejecuta `rustup doc` para abrir la documentación
-local en tu navegador.
-
-En cualquier momento en que se proporcione un tipo o una función de la biblioteca
-estándar y no estés seguro de lo que hace o cómo usarlo, usa la documentación de
-la interfaz de programación de aplicaciones (API) para averiguarlo.
-
-[otherinstall]: https://forge.rust-lang.org/infra/other-installation-methods.html
-[install]: https://www.rust-lang.org/tools/install
-[visualstudio]: https://visualstudio.microsoft.com/downloads/
-[community]: https://www.rust-lang.org/community
