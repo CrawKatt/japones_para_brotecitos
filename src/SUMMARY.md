@@ -41,4 +41,4 @@
 
 - [Clonando el libro](./contribuyendo.md)
 - [Instalando Rust](./instalando_rust.md)
-- [Realizando cambios](./realizando_cambios.md)
+- [Instalando MDBook](./instalando_mdbook.md)

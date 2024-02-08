@@ -5,5 +5,6 @@ multilingual = false
 src = "src"
 title = "日本語のブロテシトス"
 
-[output.html]
-additional-js = ["./theme/book.js"]
+[output.html.fold]
+enable = true
+level = 0

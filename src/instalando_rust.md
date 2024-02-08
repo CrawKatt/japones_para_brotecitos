@@ -16,7 +16,6 @@ nueva, estable de Rust que instales usando estos pasos debería funcionar como s
 espera con el contenido de este libro.
 
 > ### Notación de línea de comandos
->
 > En este capítulo y en todo el libro, mostraremos algunos comandos utilizados
 > en la terminal. Las líneas que debes ingresar en una terminal comienzan con `$`.
 > No necesitas escribir el carácter `$`; es el indicador de línea de comandos
@@ -122,7 +121,7 @@ obtener ayuda. Obten información sobre cómo comunicarte con otros Rustaceans
 (un apodo tonto que nos llamamos a nosotros mismos) en [la página de la
 comunidad][community].
 
-### Actualización y desinstalación
+### Actualización de versiones
 
 Una vez que Rust se instala a través de `rustup`, actualizar a una versión
 recién lanzada es fácil. Desde tu shell, ejecuta el siguiente script de
@@ -130,13 +129,6 @@ actualización:
 
 ```console
 $ rustup update
-```
-
-Para desinstalar Rust y `rustup`, ejecuta el siguiente script de desinstalación
-desde tu shell:
-
-```console
-$ rustup self uninstall
 ```
 
 ### Documentación local
