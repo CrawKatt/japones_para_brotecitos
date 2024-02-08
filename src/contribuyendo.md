@@ -18,14 +18,14 @@ El repositorio está estructurado de la siguiente manera:
 ├── SUMMARY.md
 ├── src
 │   ├── chapter_1.md
-│   ├── chapter_2.md
+│   ├── formas_de_escritura.md
 │   ├── chapter_3.md
-│   ├── chapter_4.md
-│   ├── chapter_5.md
-│   ├── chapter_6.md
-│   ├── chapter_7.md
-│   ├── chapter_8.md
-│   ├── chapter_9.md
+│   ├── gramatica.md
+│   ├── particula_wa.md
+│   ├── particula_ga.md
+│   ├── particula_ka.md
+│   ├── particula_no.md
+│   ├── particula_wo.md
 ```
 
 El archivo `README.md` es el archivo que contiene la información general del libro, como
@@ -43,7 +43,7 @@ y añadir el capítulo al final de la lista, por ejemplo:
 ```markdown
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Chapter 1](./introduccion.md)
 ```
 
 ## Cómo abrir el libro de forma local

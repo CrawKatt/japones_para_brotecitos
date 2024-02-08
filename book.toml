@@ -4,3 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "日本語のブロテシトス"
+
+[output.html]
+additional-js = ["./theme/book.js"]

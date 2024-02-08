@@ -1,1 +1,0 @@
-# La partícula が
