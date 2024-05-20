@@ -8,14 +8,14 @@ Para instalar MDBook, debes seguir los siguientes pasos:
 Si estás utilizando Linux o macOS, abre una terminal y escribe lo siguiente
 
 ```console
-$ cargo install mdbook
+cargo install mdbook
 ```
 
 El comando instala MDBook y todas sus dependencias.
 Una vez instalado, puedes verificar que MDBook se instaló correctamente escribiendo:
 
 ```console
-$ mdbook --version
+mdbook --version
 ```
 
 Si la instalación fue exitosa, verás la versión de MDBook que se instaló.
@@ -25,7 +25,7 @@ Si la instalación fue exitosa, verás la versión de MDBook que se instaló.
 Para iniciar el libro localmente y ver los cambios en tiempo real, debes ejecutar el siguiente comando:
 
 ```console
-$ mdbook serve
+mdbook serve
 ```
 
 Este comando abrirá el libro en el puerto 3000 de tu máquina, para ver el libro, debes abrir tu navegador y escribir la siguiente dirección:

@@ -27,12 +27,12 @@
 - [Kanji](./chapter_20.md)
   - [Chapter 2](./chapter_21.md)
 
-- [Contadores](./chapter_22.md)
-  - [Chapter 1](./chapter_23.md)
+- [Contadores](./apuntes_crawkatt.md)
+  - [Chapter 1](./apuntes_cactus.md)
 
 # Apuntes
 
-- [CrawKatt](./chapter_23.md)
+- [CrawKatt](./apuntes_cactus.md)
   - [Chapter 1](./chapter_24.md)
 - [Cactus](./chapter_25.md)
   - [Chapter 1](./chapter_26.md)

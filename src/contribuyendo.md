@@ -45,24 +45,3 @@ y añadir el capítulo al final de la lista, por ejemplo:
 
 - [Chapter 1](./introduccion.md)
 ```
-
-## Cómo abrir el libro de forma local
-Para abrir el libro de forma local, debes tener instalado [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html).
-Una vez instalado, debes ejecutar el siguiente comando:
-
-```bash
-mdbook serve
-```
-
-Este comando abrirá el libro en el puerto 3000 de tu máquina, para ver el libro, debes
-abrir tu navegador y escribir la siguiente dirección:
-
-```
-http://localhost:3000
-```
-Si realizas algún cambio en el libro, el navegador se actualizará automáticamente.
-
-> **Nota:** Debes tener instalado [Rust](https://www.rust-lang.org/tools/install) para poder
-> instalar mdBook.
-> Puedes instalar Rust siguiendo la guía de instalación de Rust en el siguiente capítulo:
-> [Instalando Rust](./instalando_rust.md)
