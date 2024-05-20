@@ -18,14 +18,14 @@ El repositorio está estructurado de la siguiente manera:
 ├── SUMMARY.md
 ├── src
 │   ├── chapter_1.md
-│   ├── chapter_2.md
+│   ├── formas_de_escritura.md
 │   ├── chapter_3.md
-│   ├── chapter_4.md
-│   ├── chapter_5.md
-│   ├── chapter_6.md
-│   ├── chapter_7.md
-│   ├── chapter_8.md
-│   ├── chapter_9.md
+│   ├── gramatica.md
+│   ├── particula_wa.md
+│   ├── particula_ga.md
+│   ├── particula_ka.md
+│   ├── particula_no.md
+│   ├── particula_wo.md
 ```
 
 El archivo `README.md` es el archivo que contiene la información general del libro, como
@@ -43,26 +43,5 @@ y añadir el capítulo al final de la lista, por ejemplo:
 ```markdown
 # Summary
 
-- [Chapter 1](./chapter_1.md)
+- [Chapter 1](./introduccion.md)
 ```
-
-## Cómo abrir el libro de forma local
-Para abrir el libro de forma local, debes tener instalado [mdBook](https://rust-lang.github.io/mdBook/guide/installation.html).
-Una vez instalado, debes ejecutar el siguiente comando:
-
-```bash
-mdbook serve
-```
-
-Este comando abrirá el libro en el puerto 3000 de tu máquina, para ver el libro, debes
-abrir tu navegador y escribir la siguiente dirección:
-
-```
-http://localhost:3000
-```
-Si realizas algún cambio en el libro, el navegador se actualizará automáticamente.
-
-> **Nota:** Debes tener instalado [Rust](https://www.rust-lang.org/tools/install) para poder
-> instalar mdBook.
-> Puedes instalar Rust siguiendo la guía de instalación de Rust en el siguiente capítulo:
-> [Instalando Rust](./instalando_rust.md)

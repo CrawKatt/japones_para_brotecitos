@@ -4,3 +4,7 @@ language = "en"
 multilingual = false
 src = "src"
 title = "日本語のブロテシトス"
+
+[output.html.fold]
+enable = true
+level = 0
